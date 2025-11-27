@@ -14,7 +14,6 @@ import java.io.IOException;
 
 /**
  * REST Controller for OCR operations
- * 
  * Endpoints:
  * POST /api/ocr/extract - Upload an image file and extract text
  * GET /api/ocr/health - Health check endpoint
