@@ -40,7 +40,6 @@ Before running this application, you need:
 ## Installation & Setup
 
 ### 1. Clone or Download the Project
-
 ```bash
 cd /workspace/azure-ocr-springboot
 ```
